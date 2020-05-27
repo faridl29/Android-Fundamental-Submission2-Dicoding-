@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="repository">Repositori</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Diikuti</string>
+    <string name="name">Nama</string>
+    <string name="username">Username : %1$s</string>
+    <string name="company">Perusahaan : %1$s</string>
+    <string name="location">Lokasi : %1$s</string>
+    <string name="url">Url Github : %1$s</string>
+
+    <string name="tab_following">Diikuti</string>
+    <string name="tab_followers">Pengikut</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+
+    <string name="search_user">Cari Pengguna..</string>
+    <string name="nothing_follower">Tidak memiliki pengikut</string>
+    <string name="nothing_following">Tidak ada yang diikuti</string>
+
+</resources>
